@@ -4,4 +4,4 @@
 
 ### Сборка проектов. Maven и Gradle
 
-[Многомодульный проект на Maven](https://github.com/ilk07/MultiModuleProjectMaven/tree/main/src)
+##### Многомодульный проект на Maven
